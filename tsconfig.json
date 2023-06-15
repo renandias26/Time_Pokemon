@@ -10,7 +10,7 @@
       "target": "es5",
       "outDir": ".build",
       "moduleResolution": "node",
-      "lib": ["es2019"],
+      "lib": ["es2019", "DOM"],
       "rootDir": "./",
       "baseUrl": "."
     },
