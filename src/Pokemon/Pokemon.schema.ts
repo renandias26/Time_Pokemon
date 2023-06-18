@@ -1,7 +1,7 @@
 import { Schema, model } from "mongoose";
 import { PokemonStatus } from "./Types/Pokemon.types";
 
-const PokemonSchema = new Schema({
+export const PokemonSchema = new Schema({
     Name:{
         type: String,
         require: true
@@ -32,4 +32,4 @@ const PokemonSchema = new Schema({
     }
 }, {timestamps: true})
 
-export default model('PokemonSchema', PokemonSchema)
+export default model('Pokemon', PokemonSchema)

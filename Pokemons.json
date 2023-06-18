@@ -35,10 +35,10 @@
     "Height": 7,
     "Weight": 69,
     "Moves": [
-      "sleep-talk",
-      "take-down",
-      "grass-pledge",
-      "skull-bash"
+      "string-shot",
+      "grassy-terrain",
+      "hidden-power",
+      "return"
     ]
   },
   {
@@ -77,10 +77,10 @@
     "Height": 10,
     "Weight": 130,
     "Moves": [
-      "leech-seed",
-      "sleep-talk",
-      "helping-hand",
-      "mud-slap"
+      "grassy-terrain",
+      "defense-curl",
+      "false-swipe",
+      "leaf-storm"
     ]
   },
   {
@@ -119,10 +119,10 @@
     "Height": 20,
     "Weight": 1000,
     "Moves": [
-      "charm",
-      "substitute",
-      "bullet-seed",
-      "magical-leaf"
+      "hyper-beam",
+      "grass-pledge",
+      "mega-drain",
+      "nature-power"
     ]
   },
   {
@@ -160,10 +160,10 @@
     "Height": 6,
     "Weight": 85,
     "Moves": [
-      "dynamic-punch",
-      "protect",
-      "echoed-voice",
-      "crunch"
+      "crunch",
+      "incinerate",
+      "mimic",
+      "mega-kick"
     ]
   },
   {
@@ -201,10 +201,10 @@
     "Height": 11,
     "Weight": 190,
     "Moves": [
-      "cut",
-      "defense-curl",
-      "fire-spin",
-      "mimic"
+      "hone-claws",
+      "swagger",
+      "counter",
+      "double-edge"
     ]
   },
   {
@@ -243,10 +243,10 @@
     "Height": 17,
     "Weight": 905,
     "Moves": [
-      "smokescreen",
-      "counter",
-      "will-o-wisp",
-      "false-swipe"
+      "mimic",
+      "heat-crash",
+      "confide",
+      "mud-slap"
     ]
   },
   {
@@ -284,10 +284,10 @@
     "Height": 5,
     "Weight": 90,
     "Moves": [
-      "bite",
-      "return",
-      "aqua-jet",
-      "hail"
+      "dig",
+      "attract",
+      "iron-defense",
+      "captivate"
     ]
   },
   {
@@ -325,10 +325,10 @@
     "Height": 10,
     "Weight": 225,
     "Moves": [
-      "facade",
-      "hydro-pump",
-      "submission",
-      "waterfall"
+      "double-team",
+      "rage",
+      "aqua-tail",
+      "seismic-toss"
     ]
   },
   {
@@ -366,10 +366,10 @@
     "Height": 16,
     "Weight": 855,
     "Moves": [
-      "rage",
-      "focus-punch",
-      "protect",
-      "focus-punch"
+      "attract",
+      "water-gun",
+      "withdraw",
+      "strength"
     ]
   },
   {
@@ -408,9 +408,9 @@
     "Weight": 29,
     "Moves": [
       "tackle",
+      "tackle",
       "string-shot",
-      "string-shot",
-      "bug-bite"
+      "snore"
     ]
   },
   {
@@ -448,10 +448,10 @@
     "Height": 7,
     "Weight": 99,
     "Moves": [
-      "bug-bite",
       "harden",
       "harden",
-      "bug-bite"
+      "iron-defense",
+      "harden"
     ]
   },
   {
@@ -490,10 +490,10 @@
     "Height": 11,
     "Weight": 320,
     "Moves": [
-      "rest",
-      "defog",
-      "baton-pass",
-      "substitute"
+      "shadow-ball",
+      "double-team",
+      "electroweb",
+      "nightmare"
     ]
   },
   {
@@ -532,10 +532,10 @@
     "Height": 3,
     "Weight": 32,
     "Moves": [
-      "poison-sting",
-      "poison-sting",
       "string-shot",
-      "bug-bite"
+      "poison-sting",
+      "poison-sting",
+      "string-shot"
     ]
   },
   {
@@ -616,10 +616,10 @@
     "Height": 10,
     "Weight": 295,
     "Moves": [
-      "fury-cutter",
-      "assurance",
-      "throat-chop",
-      "sludge-bomb"
+      "rock-smash",
+      "curse",
+      "swords-dance",
+      "rest"
     ]
   },
   {
@@ -658,10 +658,10 @@
     "Height": 3,
     "Weight": 18,
     "Moves": [
-      "reflect",
-      "facade",
-      "swift",
-      "fly"
+      "whirlwind",
+      "headbutt",
+      "steel-wing",
+      "bide"
     ]
   },
   {
@@ -700,9 +700,9 @@
     "Height": 11,
     "Weight": 300,
     "Moves": [
-      "uproar",
-      "swift",
-      "mimic",
+      "round",
+      "rage",
+      "tackle",
       "quick-attack"
     ]
   },
@@ -742,10 +742,10 @@
     "Height": 15,
     "Weight": 395,
     "Moves": [
-      "twister",
-      "gust",
-      "headbutt",
-      "hyper-beam"
+      "razor-wind",
+      "air-slash",
+      "tackle",
+      "secret-power"
     ]
   },
   {
@@ -783,10 +783,10 @@
     "Height": 3,
     "Weight": 35,
     "Moves": [
-      "reversal",
-      "thunder-wave",
-      "hidden-power",
-      "thunder-wave"
+      "round",
+      "fury-swipes",
+      "final-gambit",
+      "ice-beam"
     ]
   },
   {
@@ -824,10 +824,10 @@
     "Height": 7,
     "Weight": 185,
     "Moves": [
-      "protect",
-      "quick-attack",
-      "grass-knot",
-      "double-edge"
+      "endeavor",
+      "charge-beam",
+      "natural-gift",
+      "skull-bash"
     ]
   },
   {
@@ -866,10 +866,10 @@
     "Height": 3,
     "Weight": 20,
     "Moves": [
-      "focus-energy",
-      "captivate",
-      "sunny-day",
-      "uproar"
+      "growl",
+      "natural-gift",
+      "facade",
+      "aerial-ace"
     ]
   },
   {
@@ -908,10 +908,10 @@
     "Height": 12,
     "Weight": 380,
     "Moves": [
-      "secret-power",
-      "thief",
-      "heat-wave",
-      "u-turn"
+      "tri-attack",
+      "double-edge",
+      "growl",
+      "rage"
     ]
   },
   {
@@ -949,10 +949,10 @@
     "Height": 20,
     "Weight": 69,
     "Moves": [
-      "stockpile",
-      "double-edge",
-      "beat-up",
-      "torment"
+      "take-down",
+      "sucker-punch",
+      "bite",
+      "seed-bomb"
     ]
   },
   {
@@ -990,10 +990,10 @@
     "Height": 35,
     "Weight": 650,
     "Moves": [
-      "acid-spray",
-      "body-slam",
-      "double-team",
-      "substitute"
+      "poison-sting",
+      "bulldoze",
+      "poison-jab",
+      "acid"
     ]
   },
   {
@@ -1031,10 +1031,10 @@
     "Height": 4,
     "Weight": 60,
     "Moves": [
-      "thunder-wave",
-      "volt-tackle",
-      "electric-terrain",
-      "reflect"
+      "disarming-voice",
+      "covet",
+      "iron-tail",
+      "play-rough"
     ]
   },
   {
@@ -1072,10 +1072,10 @@
     "Height": 8,
     "Weight": 300,
     "Moves": [
-      "focus-punch",
-      "uproar",
-      "confide",
-      "knock-off"
+      "brutal-swing",
+      "thunder-wave",
+      "growl",
+      "magnet-rise"
     ]
   },
   {
@@ -1113,10 +1113,10 @@
     "Height": 6,
     "Weight": 120,
     "Moves": [
-      "iron-tail",
-      "rock-tomb",
-      "iron-tail",
-      "double-edge"
+      "swift",
+      "body-slam",
+      "leech-life",
+      "night-slash"
     ]
   },
   {
@@ -1154,10 +1154,10 @@
     "Height": 10,
     "Weight": 295,
     "Moves": [
-      "double-team",
-      "sand-attack",
-      "dynamic-punch",
-      "crush-claw"
+      "endure",
+      "throat-chop",
+      "swords-dance",
+      "mud-slap"
     ]
   },
   {
@@ -1195,10 +1195,10 @@
     "Height": 4,
     "Weight": 70,
     "Moves": [
-      "poison-tail",
-      "flatter",
+      "shadow-claw",
+      "sunny-day",
       "curse",
-      "poison-sting"
+      "hone-claws"
     ]
   },
   {
@@ -1236,10 +1236,10 @@
     "Height": 8,
     "Weight": 200,
     "Moves": [
-      "tail-whip",
-      "bite",
-      "helping-hand",
-      "detect"
+      "defense-curl",
+      "shock-wave",
+      "focus-energy",
+      "blizzard"
     ]
   },
   {
@@ -1278,10 +1278,10 @@
     "Height": 13,
     "Weight": 600,
     "Moves": [
-      "supersonic",
-      "charm",
-      "horn-drill",
-      "rage"
+      "surf",
+      "rain-dance",
+      "rock-smash",
+      "roar"
     ]
   },
   {
@@ -1319,10 +1319,10 @@
     "Height": 5,
     "Weight": 90,
     "Moves": [
-      "flatter",
-      "toxic",
-      "thunder",
-      "beat-up"
+      "cut",
+      "snore",
+      "natural-gift",
+      "amnesia"
     ]
   },
   {
@@ -1360,10 +1360,10 @@
     "Height": 9,
     "Weight": 195,
     "Moves": [
-      "ice-beam",
-      "reflect",
-      "sucker-punch",
-      "sludge-bomb"
+      "iron-tail",
+      "poison-sting",
+      "fury-attack",
+      "mud-slap"
     ]
   },
   {
@@ -1402,10 +1402,10 @@
     "Height": 14,
     "Weight": 620,
     "Moves": [
-      "blizzard",
-      "super-fang",
-      "toxic",
-      "cut"
+      "ice-beam",
+      "round",
+      "sleep-talk",
+      "fling"
     ]
   },
   {
@@ -1443,10 +1443,10 @@
     "Height": 6,
     "Weight": 75,
     "Moves": [
-      "frustration",
-      "magic-coat",
-      "splash",
-      "return"
+      "calm-mind",
+      "wake-up-slap",
+      "stealth-rock",
+      "wonder-room"
     ]
   },
   {
@@ -1484,10 +1484,10 @@
     "Height": 13,
     "Weight": 400,
     "Moves": [
-      "hidden-power",
-      "psychic",
-      "misty-explosion",
-      "misty-terrain"
+      "rock-smash",
+      "flamethrower",
+      "zen-headbutt",
+      "flash"
     ]
   },
   {
@@ -1525,10 +1525,10 @@
     "Height": 6,
     "Weight": 99,
     "Moves": [
-      "swagger",
-      "snore",
-      "reflect",
-      "grudge"
+      "substitute",
+      "hypnosis",
+      "endure",
+      "tackle"
     ]
   },
   {
@@ -1566,10 +1566,10 @@
     "Height": 11,
     "Weight": 199,
     "Moves": [
-      "mystical-fire",
-      "flare-blitz",
-      "dig",
-      "sleep-talk"
+      "bide",
+      "will-o-wisp",
+      "snore",
+      "extrasensory"
     ]
   },
   {
@@ -1608,10 +1608,10 @@
     "Height": 5,
     "Weight": 55,
     "Moves": [
-      "thunderbolt",
-      "psywave",
-      "icy-wind",
-      "endeavor"
+      "seismic-toss",
+      "ice-beam",
+      "disarming-voice",
+      "psychic"
     ]
   },
   {
@@ -1650,10 +1650,10 @@
     "Height": 10,
     "Weight": 120,
     "Moves": [
-      "double-edge",
-      "draining-kiss",
-      "steel-roller",
-      "work-up"
+      "self-destruct",
+      "captivate",
+      "covet",
+      "headbutt"
     ]
   },
   {
@@ -1692,10 +1692,10 @@
     "Height": 8,
     "Weight": 75,
     "Moves": [
-      "sunny-day",
-      "zen-headbutt",
-      "shadow-ball",
-      "protect"
+      "nasty-plot",
+      "toxic",
+      "toxic",
+      "double-team"
     ]
   },
   {
@@ -1734,10 +1734,10 @@
     "Height": 16,
     "Weight": 550,
     "Moves": [
-      "endure",
-      "absorb",
-      "attract",
-      "round"
+      "mean-look",
+      "swagger",
+      "crunch",
+      "u-turn"
     ]
   },
   {
@@ -1777,9 +1777,9 @@
     "Weight": 54,
     "Moves": [
       "double-team",
-      "nature-power",
-      "endure",
-      "infestation"
+      "sludge-bomb",
+      "absorb",
+      "seed-bomb"
     ]
   },
   {
@@ -1818,10 +1818,10 @@
     "Height": 8,
     "Weight": 86,
     "Moves": [
-      "double-team",
-      "bide",
-      "absorb",
-      "infestation"
+      "petal-blizzard",
+      "after-you",
+      "confide",
+      "gastro-acid"
     ]
   },
   {
@@ -1860,10 +1860,10 @@
     "Height": 12,
     "Weight": 186,
     "Moves": [
-      "attract",
-      "take-down",
-      "headbutt",
-      "endure"
+      "substitute",
+      "worry-seed",
+      "gastro-acid",
+      "sludge-bomb"
     ]
   },
   {
@@ -1902,10 +1902,10 @@
     "Height": 3,
     "Weight": 54,
     "Moves": [
-      "double-edge",
-      "sunny-day",
-      "secret-power",
-      "aromatherapy"
+      "nature-power",
+      "double-team",
+      "rage-powder",
+      "frustration"
     ]
   },
   {
@@ -1944,10 +1944,10 @@
     "Height": 10,
     "Weight": 295,
     "Moves": [
-      "toxic",
-      "hone-claws",
-      "frustration",
-      "grass-knot"
+      "sunny-day",
+      "protect",
+      "sleep-powder",
+      "facade"
     ]
   },
   {
@@ -1986,10 +1986,10 @@
     "Height": 10,
     "Weight": 300,
     "Moves": [
-      "substitute",
-      "double-team",
-      "psybeam",
-      "natural-gift"
+      "flash",
+      "reflect",
+      "secret-power",
+      "energy-ball"
     ]
   },
   {
@@ -2028,10 +2028,10 @@
     "Height": 15,
     "Weight": 125,
     "Moves": [
-      "natural-gift",
-      "screech",
-      "energy-ball",
-      "aerial-ace"
+      "return",
+      "twister",
+      "quiver-dance",
+      "confuse-ray"
     ]
   },
   {
@@ -2069,10 +2069,10 @@
     "Height": 2,
     "Weight": 8,
     "Moves": [
-      "work-up",
-      "rage",
-      "cut",
-      "toxic"
+      "rest",
+      "rock-smash",
+      "sucker-punch",
+      "bulldoze"
     ]
   },
   {
@@ -2110,10 +2110,10 @@
     "Height": 7,
     "Weight": 333,
     "Moves": [
-      "thief",
-      "substitute",
-      "rage",
-      "echoed-voice"
+      "confide",
+      "ally-switch",
+      "uproar",
+      "scorching-sands"
     ]
   },
   {
@@ -2151,10 +2151,10 @@
     "Height": 4,
     "Weight": 42,
     "Moves": [
-      "facade",
-      "spite",
-      "dig",
-      "hyper-voice"
+      "shadow-claw",
+      "slash",
+      "take-down",
+      "defense-curl"
     ]
   },
   {
@@ -2192,10 +2192,10 @@
     "Height": 10,
     "Weight": 320,
     "Moves": [
-      "round",
-      "u-turn",
-      "thunder-wave",
-      "trailblaze"
+      "zap-cannon",
+      "shadow-ball",
+      "power-gem",
+      "amnesia"
     ]
   },
   {
@@ -2233,10 +2233,10 @@
     "Height": 8,
     "Weight": 196,
     "Moves": [
-      "sleep-talk",
-      "swagger",
-      "pay-day",
-      "swift"
+      "snore",
+      "tail-whip",
+      "brine",
+      "tail-whip"
     ]
   },
   {
@@ -2274,10 +2274,10 @@
     "Height": 17,
     "Weight": 766,
     "Moves": [
-      "whirlpool",
-      "swagger",
-      "counter",
-      "counter"
+      "snore",
+      "brine",
+      "power-gem",
+      "rage"
     ]
   },
   {
@@ -2315,10 +2315,10 @@
     "Height": 5,
     "Weight": 280,
     "Moves": [
-      "power-trip",
-      "fury-swipes",
-      "final-gambit",
-      "thunderbolt"
+      "take-down",
+      "hidden-power",
+      "helping-hand",
+      "fury-swipes"
     ]
   },
   {
@@ -2356,10 +2356,10 @@
     "Height": 10,
     "Weight": 320,
     "Moves": [
-      "aerial-ace",
-      "attract",
-      "role-play",
-      "strength"
+      "mega-punch",
+      "scary-face",
+      "rest",
+      "poison-jab"
     ]
   },
   {
@@ -2397,10 +2397,10 @@
     "Height": 7,
     "Weight": 190,
     "Moves": [
-      "fire-fang",
-      "snore",
-      "bide",
-      "thrash"
+      "headbutt",
+      "dragon-breath",
+      "headbutt",
+      "scary-face"
     ]
   },
   {
@@ -2438,10 +2438,10 @@
     "Height": 19,
     "Weight": 1550,
     "Moves": [
-      "wild-charge",
-      "mimic",
-      "leer",
-      "round"
+      "agility",
+      "safeguard",
+      "mud-slap",
+      "protect"
     ]
   },
   {
@@ -2479,10 +2479,10 @@
     "Height": 6,
     "Weight": 124,
     "Moves": [
-      "sleep-talk",
-      "bubble-beam",
-      "skull-bash",
-      "hidden-power"
+      "whirlpool",
+      "mud-bomb",
+      "substitute",
+      "refresh"
     ]
   },
   {
@@ -2520,10 +2520,10 @@
     "Height": 10,
     "Weight": 200,
     "Moves": [
-      "mud-shot",
-      "scald",
-      "focus-punch",
-      "helping-hand"
+      "skull-bash",
+      "toxic",
+      "earthquake",
+      "metronome"
     ]
   },
   {
@@ -2562,10 +2562,10 @@
     "Height": 13,
     "Weight": 540,
     "Moves": [
-      "snore",
-      "ice-punch",
-      "rain-dance",
-      "circle-throw"
+      "rock-smash",
+      "mega-punch",
+      "curse",
+      "secret-power"
     ]
   },
   {
@@ -2603,10 +2603,10 @@
     "Height": 9,
     "Weight": 195,
     "Moves": [
-      "return",
-      "telekinesis",
-      "energy-ball",
-      "recycle"
+      "mega-kick",
+      "dazzling-gleam",
+      "rain-dance",
+      "role-play"
     ]
   },
   {
@@ -2644,10 +2644,10 @@
     "Height": 13,
     "Weight": 565,
     "Moves": [
-      "kinesis",
-      "psywave",
-      "dig",
-      "tri-attack"
+      "signal-beam",
+      "dream-eater",
+      "ice-punch",
+      "teleport"
     ]
   },
   {
@@ -2685,10 +2685,10 @@
     "Height": 15,
     "Weight": 480,
     "Moves": [
-      "giga-impact",
-      "submission",
-      "light-screen",
-      "night-shade"
+      "rest",
+      "safeguard",
+      "rest",
+      "psyshock"
     ]
   },
   {
@@ -2726,10 +2726,10 @@
     "Height": 8,
     "Weight": 195,
     "Moves": [
-      "vacuum-wave",
-      "thunder-punch",
-      "rest",
-      "captivate"
+      "seismic-toss",
+      "focus-punch",
+      "headbutt",
+      "protect"
     ]
   },
   {
@@ -2767,10 +2767,10 @@
     "Height": 15,
     "Weight": 705,
     "Moves": [
-      "double-team",
-      "hidden-power",
-      "close-combat",
-      "flamethrower"
+      "natural-gift",
+      "curse",
+      "mud-slap",
+      "facade"
     ]
   },
   {
@@ -2808,10 +2808,10 @@
     "Height": 16,
     "Weight": 1300,
     "Moves": [
-      "bulldoze",
-      "high-horsepower",
-      "rock-blast",
-      "protect"
+      "bide",
+      "darkest-lariat",
+      "close-combat",
+      "rain-dance"
     ]
   },
   {
@@ -2850,10 +2850,10 @@
     "Height": 7,
     "Weight": 40,
     "Moves": [
-      "magical-leaf",
-      "solar-beam",
-      "hidden-power",
-      "acid"
+      "stun-spore",
+      "sleep-talk",
+      "bullet-seed",
+      "growth"
     ]
   },
   {
@@ -2892,10 +2892,10 @@
     "Height": 10,
     "Weight": 64,
     "Moves": [
-      "bide",
+      "snore",
       "flash",
-      "nature-power",
-      "bullet-seed"
+      "natural-gift",
+      "venoshock"
     ]
   },
   {
@@ -2934,10 +2934,10 @@
     "Height": 17,
     "Weight": 155,
     "Moves": [
-      "toxic",
-      "leech-life",
-      "power-whip",
-      "sleep-powder"
+      "sunny-day",
+      "grass-knot",
+      "gastro-acid",
+      "leaf-tornado"
     ]
   },
   {
@@ -2976,10 +2976,10 @@
     "Height": 9,
     "Weight": 455,
     "Moves": [
-      "hydro-pump",
-      "substitute",
-      "aurora-beam",
-      "swagger"
+      "reflect",
+      "dazzling-gleam",
+      "hex",
+      "icy-wind"
     ]
   },
   {
@@ -3018,10 +3018,10 @@
     "Height": 16,
     "Weight": 550,
     "Moves": [
-      "dazzling-gleam",
-      "hidden-power",
-      "hyper-beam",
-      "icy-wind"
+      "frustration",
+      "take-down",
+      "mega-drain",
+      "facade"
     ]
   },
   {
@@ -3060,10 +3060,10 @@
     "Height": 4,
     "Weight": 200,
     "Moves": [
-      "rock-smash",
-      "autotomize",
-      "block",
-      "return"
+      "rock-throw",
+      "incinerate",
+      "sandstorm",
+      "double-team"
     ]
   },
   {
@@ -3102,10 +3102,10 @@
     "Height": 10,
     "Weight": 1050,
     "Moves": [
-      "curse",
       "secret-power",
-      "focus-punch",
-      "take-down"
+      "stone-edge",
+      "double-edge",
+      "submission"
     ]
   },
   {
@@ -3145,9 +3145,9 @@
     "Weight": 3000,
     "Moves": [
       "superpower",
-      "ancient-power",
-      "heavy-slam",
-      "dig"
+      "brick-break",
+      "rock-throw",
+      "iron-head"
     ]
   },
   {
@@ -3185,10 +3185,10 @@
     "Height": 10,
     "Weight": 300,
     "Moves": [
-      "tail-whip",
-      "facade",
+      "high-horsepower",
+      "attract",
       "strength",
-      "solar-beam"
+      "substitute"
     ]
   },
   {
@@ -3226,10 +3226,10 @@
     "Height": 17,
     "Weight": 950,
     "Moves": [
+      "double-edge",
+      "flame-charge",
       "confide",
-      "quick-attack",
-      "agility",
-      "take-down"
+      "solar-beam"
     ]
   },
   {
@@ -3268,10 +3268,10 @@
     "Height": 12,
     "Weight": 360,
     "Moves": [
-      "frustration",
-      "me-first",
-      "fire-blast",
-      "grass-knot"
+      "expanding-force",
+      "natural-gift",
+      "belly-drum",
+      "captivate"
     ]
   },
   {
@@ -3310,10 +3310,10 @@
     "Height": 16,
     "Weight": 785,
     "Moves": [
-      "double-team",
-      "liquidation",
-      "toxic",
-      "bulldoze"
+      "bide",
+      "withdraw",
+      "calm-mind",
+      "flamethrower"
     ]
   },
   {
@@ -3352,10 +3352,10 @@
     "Height": 3,
     "Weight": 60,
     "Moves": [
-      "signal-beam",
-      "rage",
-      "tackle",
-      "hidden-power"
+      "substitute",
+      "toxic",
+      "thunderbolt",
+      "heavy-slam"
     ]
   },
   {
@@ -3394,10 +3394,10 @@
     "Height": 10,
     "Weight": 600,
     "Moves": [
-      "rollout",
-      "double-edge",
-      "steel-beam",
-      "heavy-slam"
+      "rain-dance",
+      "tri-attack",
+      "curse",
+      "substitute"
     ]
   },
   {
@@ -3436,10 +3436,10 @@
     "Height": 8,
     "Weight": 150,
     "Moves": [
-      "pluck",
-      "protect",
-      "take-down",
-      "substitute"
+      "facade",
+      "air-slash",
+      "foresight",
+      "sunny-day"
     ]
   },
   {
@@ -3478,10 +3478,10 @@
     "Height": 14,
     "Weight": 392,
     "Moves": [
-      "whirlwind",
-      "body-slam",
-      "uproar",
-      "pursuit"
+      "quick-attack",
+      "endeavor",
+      "fly",
+      "mimic"
     ]
   },
   {
@@ -3520,10 +3520,10 @@
     "Height": 18,
     "Weight": 852,
     "Moves": [
-      "rage",
-      "thrash",
-      "supersonic",
-      "uproar"
+      "growl",
+      "hyper-beam",
+      "hyper-beam",
+      "substitute"
     ]
   },
   {
@@ -3561,10 +3561,10 @@
     "Height": 11,
     "Weight": 900,
     "Moves": [
-      "echoed-voice",
-      "helping-hand",
-      "disable",
-      "water-gun"
+      "confide",
+      "rest",
+      "natural-gift",
+      "horn-drill"
     ]
   },
   {
@@ -3603,10 +3603,10 @@
     "Height": 17,
     "Weight": 1200,
     "Moves": [
-      "frost-breath",
-      "take-down",
-      "curse",
-      "growl"
+      "dive",
+      "hidden-power",
+      "secret-power",
+      "swagger"
     ]
   },
   {
@@ -3644,10 +3644,10 @@
     "Height": 9,
     "Weight": 300,
     "Moves": [
-      "endure",
-      "drain-punch",
-      "poison-gas",
-      "haze"
+      "rage",
+      "mud-shot",
+      "helping-hand",
+      "taunt"
     ]
   },
   {
@@ -3685,10 +3685,10 @@
     "Height": 12,
     "Weight": 300,
     "Moves": [
-      "hyper-beam",
-      "mud-slap",
-      "hex",
-      "thunderbolt"
+      "fling",
+      "facade",
+      "venoshock",
+      "mud-shot"
     ]
   },
   {
@@ -3726,10 +3726,10 @@
     "Height": 3,
     "Weight": 40,
     "Moves": [
-      "self-destruct",
-      "blizzard",
-      "rage",
-      "double-edge"
+      "ice-spinner",
+      "swift",
+      "bubble-beam",
+      "rapid-spin"
     ]
   },
   {
@@ -3768,10 +3768,10 @@
     "Height": 15,
     "Weight": 1325,
     "Moves": [
-      "bubble-beam",
-      "pin-missile",
-      "rain-dance",
-      "hyper-beam"
+      "frustration",
+      "sleep-talk",
+      "clamp",
+      "ice-shard"
     ]
   },
   {
@@ -3810,10 +3810,10 @@
     "Height": 13,
     "Weight": 1,
     "Moves": [
-      "perish-song",
-      "zap-cannon",
-      "psywave",
-      "scary-face"
+      "double-team",
+      "frustration",
+      "sleep-talk",
+      "thunder"
     ]
   },
   {
@@ -3852,10 +3852,10 @@
     "Height": 16,
     "Weight": 1,
     "Moves": [
-      "shadow-punch",
-      "psychic",
-      "poltergeist",
-      "giga-drain"
+      "encore",
+      "fire-punch",
+      "facade",
+      "dazzling-gleam"
     ]
   },
   {
@@ -3894,10 +3894,10 @@
     "Height": 15,
     "Weight": 405,
     "Moves": [
-      "pain-split",
-      "mega-kick",
-      "confide",
-      "secret-power"
+      "lick",
+      "mega-drain",
+      "body-slam",
+      "toxic-spikes"
     ]
   },
   {
@@ -3936,10 +3936,10 @@
     "Height": 88,
     "Weight": 2100,
     "Moves": [
-      "slam",
-      "screech",
-      "bulldoze",
-      "sleep-talk"
+      "strength",
+      "breaking-swipe",
+      "twister",
+      "substitute"
     ]
   },
   {
@@ -3977,10 +3977,10 @@
     "Height": 10,
     "Weight": 324,
     "Moves": [
-      "thief",
-      "body-slam",
-      "foul-play",
-      "calm-mind"
+      "skull-bash",
+      "return",
+      "psychic",
+      "dream-eater"
     ]
   },
   {
@@ -4018,10 +4018,10 @@
     "Height": 16,
     "Weight": 756,
     "Moves": [
-      "scary-face",
-      "telekinesis",
-      "secret-power",
-      "synchronoise"
+      "signal-beam",
+      "recycle",
+      "nightmare",
+      "confusion"
     ]
   },
   {
@@ -4059,10 +4059,10 @@
     "Height": 4,
     "Weight": 65,
     "Moves": [
-      "rest",
-      "snore",
-      "protect",
-      "strength"
+      "headbutt",
+      "bubble",
+      "brick-break",
+      "superpower"
     ]
   },
   {
@@ -4100,10 +4100,10 @@
     "Height": 13,
     "Weight": 600,
     "Moves": [
-      "swords-dance",
-      "x-scissor",
-      "ancient-power",
-      "bubble-beam"
+      "scald",
+      "mud-slap",
+      "attract",
+      "stomping-tantrum"
     ]
   },
   {
@@ -4141,10 +4141,10 @@
     "Height": 5,
     "Weight": 104,
     "Moves": [
-      "rest",
-      "snore",
-      "thunder-wave",
-      "facade"
+      "bide",
+      "swift",
+      "thunder-shock",
+      "bide"
     ]
   },
   {
@@ -4182,10 +4182,10 @@
     "Height": 12,
     "Weight": 666,
     "Moves": [
-      "charge-beam",
-      "rain-dance",
-      "scary-face",
-      "magnet-rise"
+      "explosion",
+      "hidden-power",
+      "headbutt",
+      "round"
     ]
   },
   {
@@ -4224,10 +4224,10 @@
     "Height": 4,
     "Weight": 25,
     "Moves": [
-      "grass-knot",
-      "substitute",
-      "rest",
-      "solar-beam"
+      "swords-dance",
+      "absorb",
+      "take-down",
+      "self-destruct"
     ]
   },
   {
@@ -4266,10 +4266,10 @@
     "Height": 20,
     "Weight": 1200,
     "Moves": [
-      "self-destruct",
-      "zen-headbutt",
-      "grassy-terrain",
-      "light-screen"
+      "teleport",
+      "facade",
+      "hyper-beam",
+      "confide"
     ]
   },
   {
@@ -4307,10 +4307,10 @@
     "Height": 4,
     "Weight": 65,
     "Moves": [
-      "sleep-talk",
-      "substitute",
-      "double-kick",
-      "detect"
+      "mega-kick",
+      "leer",
+      "endure",
+      "focus-energy"
     ]
   },
   {
@@ -4348,10 +4348,10 @@
     "Height": 10,
     "Weight": 450,
     "Moves": [
-      "swagger",
-      "toxic",
-      "outrage",
-      "bubble-beam"
+      "rock-tomb",
+      "confide",
+      "bide",
+      "giga-impact"
     ]
   },
   {
@@ -4389,10 +4389,10 @@
     "Height": 15,
     "Weight": 498,
     "Moves": [
-      "tackle",
-      "facade",
-      "sunny-day",
-      "feint"
+      "natural-gift",
+      "counter",
+      "bulldoze",
+      "rock-climb"
     ]
   },
   {
@@ -4430,10 +4430,10 @@
     "Height": 14,
     "Weight": 502,
     "Moves": [
-      "feint",
-      "drain-punch",
-      "dynamic-punch",
-      "return"
+      "focus-punch",
+      "seismic-toss",
+      "confide",
+      "pursuit"
     ]
   },
   {
@@ -4471,10 +4471,10 @@
     "Height": 12,
     "Weight": 655,
     "Moves": [
-      "take-down",
-      "screech",
-      "psych-up",
-      "thunderbolt"
+      "acid",
+      "shock-wave",
+      "chip-away",
+      "hydro-pump"
     ]
   },
   {
@@ -4512,10 +4512,10 @@
     "Height": 6,
     "Weight": 10,
     "Moves": [
-      "flamethrower",
-      "gyro-ball",
-      "psybeam",
-      "substitute"
+      "smokescreen",
+      "secret-power",
+      "confide",
+      "double-team"
     ]
   },
   {
@@ -4553,10 +4553,10 @@
     "Height": 12,
     "Weight": 95,
     "Moves": [
+      "fire-blast",
       "self-destruct",
-      "zap-cannon",
-      "assurance",
-      "bide"
+      "tackle",
+      "shadow-ball"
     ]
   },
   {
@@ -4595,10 +4595,10 @@
     "Height": 10,
     "Weight": 1150,
     "Moves": [
-      "rototiller",
-      "fire-fang",
-      "fire-blast",
-      "counter"
+      "icy-wind",
+      "superpower",
+      "poison-jab",
+      "thunderbolt"
     ]
   },
   {
@@ -4637,10 +4637,10 @@
     "Height": 19,
     "Weight": 1200,
     "Moves": [
-      "brutal-swing",
-      "bide",
-      "secret-power",
-      "thief"
+      "rain-dance",
+      "chip-away",
+      "crunch",
+      "sandstorm"
     ]
   },
   {
@@ -4678,10 +4678,10 @@
     "Height": 11,
     "Weight": 346,
     "Moves": [
-      "bide",
-      "return",
-      "snore",
-      "growl"
+      "mega-kick",
+      "reflect",
+      "charge-beam",
+      "thunder"
     ]
   },
   {
@@ -4719,10 +4719,10 @@
     "Height": 10,
     "Weight": 350,
     "Moves": [
-      "rage",
-      "reflect",
-      "giga-drain",
-      "swagger"
+      "poison-powder",
+      "leech-seed",
+      "rest",
+      "grassy-terrain"
     ]
   },
   {
@@ -4760,10 +4760,10 @@
     "Height": 22,
     "Weight": 800,
     "Moves": [
-      "facade",
-      "last-resort",
-      "curse",
-      "assurance"
+      "mega-punch",
+      "solar-beam",
+      "work-up",
+      "giga-impact"
     ]
   },
   {
@@ -4801,10 +4801,10 @@
     "Height": 4,
     "Weight": 80,
     "Moves": [
-      "substitute",
-      "dragon-rage",
-      "endure",
-      "surf"
+      "natural-gift",
+      "blizzard",
+      "scald",
+      "waterfall"
     ]
   },
   {
@@ -4842,10 +4842,10 @@
     "Height": 12,
     "Weight": 250,
     "Moves": [
-      "surf",
-      "skull-bash",
-      "water-gun",
-      "skull-bash"
+      "round",
+      "bubble",
+      "waterfall",
+      "bide"
     ]
   },
   {
@@ -4883,10 +4883,10 @@
     "Height": 6,
     "Weight": 150,
     "Moves": [
-      "quick-attack",
-      "frustration",
-      "poison-jab",
-      "poison-jab"
+      "round",
+      "hidden-power",
+      "curse",
+      "megahorn"
     ]
   },
   {
@@ -4924,10 +4924,10 @@
     "Height": 13,
     "Weight": 390,
     "Moves": [
+      "protect",
+      "fury-cutter",
       "rest",
-      "quick-attack",
-      "take-down",
-      "swift"
+      "scale-shot"
     ]
   },
   {
@@ -4965,10 +4965,10 @@
     "Height": 8,
     "Weight": 345,
     "Moves": [
-      "endure",
-      "signal-beam",
-      "water-gun",
-      "double-edge"
+      "toxic",
+      "psywave",
+      "snore",
+      "magic-coat"
     ]
   },
   {
@@ -5007,10 +5007,10 @@
     "Height": 11,
     "Weight": 800,
     "Moves": [
-      "blizzard",
-      "thunder",
-      "headbutt",
-      "teleport"
+      "pain-split",
+      "natural-gift",
+      "facade",
+      "minimize"
     ]
   },
   {
@@ -5049,10 +5049,10 @@
     "Height": 13,
     "Weight": 545,
     "Moves": [
-      "flash",
-      "telekinesis",
-      "skill-swap",
-      "bide"
+      "thief",
+      "encore",
+      "power-swap",
+      "infestation"
     ]
   },
   {
@@ -5091,10 +5091,10 @@
     "Height": 15,
     "Weight": 560,
     "Moves": [
-      "quick-attack",
-      "brutal-swing",
-      "take-down",
-      "safeguard"
+      "bide",
+      "struggle-bug",
+      "leer",
+      "cut"
     ]
   },
   {
@@ -5133,10 +5133,10 @@
     "Height": 14,
     "Weight": 406,
     "Moves": [
-      "substitute",
-      "calm-mind",
-      "protect",
-      "snore"
+      "echoed-voice",
+      "magic-coat",
+      "magic-coat",
+      "fake-tears"
     ]
   },
   {
@@ -5174,10 +5174,10 @@
     "Height": 11,
     "Weight": 300,
     "Moves": [
+      "captivate",
+      "rock-climb",
       "hidden-power",
-      "substitute",
-      "rest",
-      "low-kick"
+      "captivate"
     ]
   },
   {
@@ -5215,10 +5215,10 @@
     "Height": 13,
     "Weight": 445,
     "Moves": [
-      "focus-punch",
-      "endure",
       "leer",
-      "fire-spin"
+      "toxic",
+      "smog",
+      "round"
     ]
   },
   {
@@ -5256,10 +5256,10 @@
     "Height": 15,
     "Weight": 550,
     "Moves": [
-      "submission",
-      "outrage",
-      "throat-chop",
-      "earthquake"
+      "swords-dance",
+      "harden",
+      "thief",
+      "rock-slide"
     ]
   },
   {
@@ -5297,10 +5297,10 @@
     "Height": 14,
     "Weight": 884,
     "Moves": [
-      "zen-headbutt",
-      "attract",
-      "iron-tail",
-      "strength"
+      "zap-cannon",
+      "incinerate",
+      "endure",
+      "megahorn"
     ]
   },
   {
@@ -5338,10 +5338,10 @@
     "Height": 9,
     "Weight": 100,
     "Moves": [
-      "splash",
-      "splash",
-      "splash",
-      "flail"
+      "flail",
+      "tackle",
+      "flail",
+      "hydro-pump"
     ]
   },
   {
@@ -5380,10 +5380,10 @@
     "Height": 65,
     "Weight": 2350,
     "Moves": [
-      "dive",
-      "torment",
-      "twister",
-      "secret-power"
+      "payback",
+      "hydro-pump",
+      "rest",
+      "body-slam"
     ]
   },
   {
@@ -5422,10 +5422,10 @@
     "Height": 25,
     "Weight": 2200,
     "Moves": [
-      "waterfall",
-      "ice-shard",
-      "nightmare",
-      "shock-wave"
+      "substitute",
+      "sing",
+      "hyper-voice",
+      "brine"
     ]
   },
   {
@@ -5501,10 +5501,10 @@
     "Height": 3,
     "Weight": 65,
     "Moves": [
-      "hyper-voice",
-      "sand-attack",
-      "focus-energy",
-      "covet"
+      "yawn",
+      "yawn",
+      "growl",
+      "skull-bash"
     ]
   },
   {
@@ -5542,10 +5542,10 @@
     "Height": 10,
     "Weight": 290,
     "Moves": [
-      "endure",
-      "focus-energy",
-      "tackle",
-      "heal-bell"
+      "aqua-ring",
+      "echoed-voice",
+      "rain-dance",
+      "body-slam"
     ]
   },
   {
@@ -5583,10 +5583,10 @@
     "Height": 8,
     "Weight": 245,
     "Moves": [
-      "giga-impact",
-      "rest",
-      "toxic",
-      "strength"
+      "attract",
+      "retaliate",
+      "thunder-shock",
+      "round"
     ]
   },
   {
@@ -5624,10 +5624,10 @@
     "Height": 9,
     "Weight": 250,
     "Moves": [
-      "sand-attack",
-      "smog",
-      "zap-cannon",
-      "burning-jealousy"
+      "facade",
+      "tackle",
+      "last-resort",
+      "weather-ball"
     ]
   },
   {
@@ -5665,10 +5665,10 @@
     "Height": 8,
     "Weight": 365,
     "Moves": [
-      "zen-headbutt",
-      "substitute",
-      "recover",
-      "power-swap"
+      "ice-beam",
+      "psybeam",
+      "eerie-impulse",
+      "magnet-rise"
     ]
   },
   {
@@ -5707,10 +5707,10 @@
     "Height": 4,
     "Weight": 75,
     "Moves": [
-      "swagger",
-      "bind",
-      "double-edge",
-      "bind"
+      "hydro-pump",
+      "rock-smash",
+      "muddy-water",
+      "smack-down"
     ]
   },
   {
@@ -5749,10 +5749,10 @@
     "Height": 10,
     "Weight": 350,
     "Moves": [
-      "skull-bash",
-      "whirlpool",
-      "rock-climb",
-      "bind"
+      "rock-tomb",
+      "shell-smash",
+      "sand-attack",
+      "protect"
     ]
   },
   {
@@ -5791,10 +5791,10 @@
     "Height": 5,
     "Weight": 115,
     "Moves": [
-      "protect",
-      "body-slam",
-      "sleep-talk",
-      "waterfall"
+      "reflect",
+      "return",
+      "mimic",
+      "secret-power"
     ]
   },
   {
@@ -5833,10 +5833,10 @@
     "Height": 13,
     "Weight": 405,
     "Moves": [
-      "giga-impact",
-      "icy-wind",
-      "absorb",
-      "rock-blast"
+      "double-edge",
+      "sleep-talk",
+      "curse",
+      "cross-poison"
     ]
   },
   {
@@ -5875,10 +5875,10 @@
     "Height": 18,
     "Weight": 590,
     "Moves": [
-      "secret-power",
-      "thief",
-      "bite",
-      "flamethrower"
+      "hurricane",
+      "sky-attack",
+      "iron-head",
+      "sleep-talk"
     ]
   },
   {
@@ -5916,10 +5916,10 @@
     "Height": 21,
     "Weight": 4600,
     "Moves": [
+      "psychic",
       "body-slam",
-      "hyper-voice",
-      "double-edge",
-      "ice-punch"
+      "surf",
+      "double-edge"
     ]
   },
   {
@@ -5958,10 +5958,10 @@
     "Height": 17,
     "Weight": 554,
     "Moves": [
-      "hail",
-      "whirlwind",
-      "return",
-      "hyper-beam"
+      "double-edge",
+      "leer",
+      "aurora-veil",
+      "endure"
     ]
   },
   {
@@ -6000,10 +6000,10 @@
     "Height": 16,
     "Weight": 526,
     "Moves": [
-      "roost",
-      "thunder-wave",
-      "electric-terrain",
-      "thunderbolt"
+      "dual-wingbeat",
+      "wild-charge",
+      "flash",
+      "leer"
     ]
   },
   {
@@ -6042,10 +6042,10 @@
     "Height": 20,
     "Weight": 600,
     "Moves": [
-      "pluck",
-      "sunny-day",
-      "mimic",
-      "steel-wing"
+      "secret-power",
+      "sandstorm",
+      "sleep-talk",
+      "double-edge"
     ]
   },
   {
@@ -6083,10 +6083,10 @@
     "Height": 18,
     "Weight": 33,
     "Moves": [
-      "endure",
-      "mist",
-      "secret-power",
-      "dragon-breath"
+      "reflect",
+      "skull-bash",
+      "supersonic",
+      "take-down"
     ]
   },
   {
@@ -6124,10 +6124,10 @@
     "Height": 40,
     "Weight": 165,
     "Moves": [
-      "skull-bash",
-      "wrap",
-      "iron-head",
-      "incinerate"
+      "horn-drill",
+      "waterfall",
+      "snore",
+      "bind"
     ]
   },
   {
@@ -6166,10 +6166,10 @@
     "Height": 22,
     "Weight": 2100,
     "Moves": [
-      "incinerate",
-      "steel-wing",
-      "dragon-dance",
-      "aqua-jet"
+      "surf",
+      "helping-hand",
+      "waterfall",
+      "dragon-claw"
     ]
   },
   {
@@ -6208,9 +6208,9 @@
     "Weight": 1220,
     "Moves": [
       "rock-climb",
-      "psystrike",
-      "seismic-toss",
-      "swift"
+      "light-screen",
+      "zen-headbutt",
+      "teleport"
     ]
   },
   {
@@ -6248,10 +6248,10 @@
     "Height": 4,
     "Weight": 40,
     "Moves": [
-      "hidden-power",
-      "fake-tears",
-      "expanding-force",
-      "fire-punch"
+      "flare-blitz",
+      "trick-room",
+      "iron-head",
+      "swords-dance"
     ]
   }
 ]

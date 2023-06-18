@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/server.ts",
-    "test" : "ts-node src/PokemonData/PokemonData.controller.ts"
+    "test" : "ts-node src/Pokemon/Pokemon.controller.ts"
   },
   "repository": {
     "type": "git",

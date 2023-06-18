@@ -1,6 +1,7 @@
 import PokemonSchema from "./Pokemon.schema"
 import { PokemonStatus, Pokemon } from "./Types/Pokemon.types"
-import {writeFile} from 'fs/promises'
+import {writeFile, readFile} from 'fs/promises'
+import { PokemonTypeDTO, PokemonNameDexNumber } from "./Types/PokemonTypes.dto"
 
 class PokemonService{
     public HelloWord(){
@@ -85,6 +86,51 @@ class PokemonService{
     private RandomIndex(arrlength: number){
         return Math.floor(Math.random() * (arrlength-1))
     }
+
+    public async ListPokemonTypes(){
+        const strPokemons = await readFile('pokemons.json', 'utf-8')
+        const arrPokemons: Pokemon[] = JSON.parse(strPokemons)
+
+        const arrTypes: PokemonTypeDTO[] = new Array<PokemonTypeDTO>
+
+        arrPokemons.forEach((pokemon)=>{
+            pokemon.Types.forEach((NameType)=>{
+                if (arrTypes.some((TypeDto)=>{ return TypeDto.Type == NameType})){
+                    const Type = arrTypes.find((TypeDto)=>{return TypeDto.Type == NameType})
+                    if(!Type){return}         
+                    Type.Pokemons.push({Name: pokemon.Name, DexNumber: pokemon.Dex})
+                    return
+                }
+                const arr = new Array<PokemonNameDexNumber>
+                arr.push({
+                    Name: pokemon.Name, 
+                    DexNumber: pokemon.Dex
+                })
+                arrTypes.push({Type: NameType, Pokemons: arr})
+            })
+        })
+
+        arrTypes.forEach((item)=>{
+            return item.Pokemons.sort((Pokemon)=>{
+                return Pokemon.DexNumber
+            })
+        })
+
+        await writeFile('ListPokemonTypes.json', JSON.stringify(arrTypes, null, 2))
+    }
+
+    public async FindPokemonByType(PokemonType: string){
+        return await PokemonSchema.find({Types: {$in: PokemonType}})
+    }
+
+    public async FindPokemonByDexNumber(DexNumber: number){
+        return await PokemonSchema.find({Dex: DexNumber})
+    }
+
+    public async FindPokemonByName(Name: string[]){   
+        return await PokemonSchema.find({Name: {$in: Name}}) 
+    }
+
 }
 
 export default new PokemonService()

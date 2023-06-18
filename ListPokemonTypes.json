@@ -1,0 +1,959 @@
+[
+  {
+    "Type": "grass",
+    "Pokemons": [
+      {
+        "Name": "bulbasaur",
+        "DexNumber": 1
+      },
+      {
+        "Name": "ivysaur",
+        "DexNumber": 2
+      },
+      {
+        "Name": "venusaur",
+        "DexNumber": 3
+      },
+      {
+        "Name": "oddish",
+        "DexNumber": 43
+      },
+      {
+        "Name": "gloom",
+        "DexNumber": 44
+      },
+      {
+        "Name": "vileplume",
+        "DexNumber": 45
+      },
+      {
+        "Name": "paras",
+        "DexNumber": 46
+      },
+      {
+        "Name": "parasect",
+        "DexNumber": 47
+      },
+      {
+        "Name": "bellsprout",
+        "DexNumber": 69
+      },
+      {
+        "Name": "weepinbell",
+        "DexNumber": 70
+      },
+      {
+        "Name": "victreebel",
+        "DexNumber": 71
+      },
+      {
+        "Name": "exeggcute",
+        "DexNumber": 102
+      },
+      {
+        "Name": "exeggutor",
+        "DexNumber": 103
+      },
+      {
+        "Name": "tangela",
+        "DexNumber": 114
+      }
+    ]
+  },
+  {
+    "Type": "poison",
+    "Pokemons": [
+      {
+        "Name": "bulbasaur",
+        "DexNumber": 1
+      },
+      {
+        "Name": "ivysaur",
+        "DexNumber": 2
+      },
+      {
+        "Name": "venusaur",
+        "DexNumber": 3
+      },
+      {
+        "Name": "weedle",
+        "DexNumber": 13
+      },
+      {
+        "Name": "kakuna",
+        "DexNumber": 14
+      },
+      {
+        "Name": "beedrill",
+        "DexNumber": 15
+      },
+      {
+        "Name": "ekans",
+        "DexNumber": 23
+      },
+      {
+        "Name": "arbok",
+        "DexNumber": 24
+      },
+      {
+        "Name": "nidoran-f",
+        "DexNumber": 29
+      },
+      {
+        "Name": "nidorina",
+        "DexNumber": 30
+      },
+      {
+        "Name": "nidoqueen",
+        "DexNumber": 31
+      },
+      {
+        "Name": "nidoran-m",
+        "DexNumber": 32
+      },
+      {
+        "Name": "nidorino",
+        "DexNumber": 33
+      },
+      {
+        "Name": "nidoking",
+        "DexNumber": 34
+      },
+      {
+        "Name": "zubat",
+        "DexNumber": 41
+      },
+      {
+        "Name": "golbat",
+        "DexNumber": 42
+      },
+      {
+        "Name": "oddish",
+        "DexNumber": 43
+      },
+      {
+        "Name": "gloom",
+        "DexNumber": 44
+      },
+      {
+        "Name": "vileplume",
+        "DexNumber": 45
+      },
+      {
+        "Name": "venonat",
+        "DexNumber": 48
+      },
+      {
+        "Name": "venomoth",
+        "DexNumber": 49
+      },
+      {
+        "Name": "bellsprout",
+        "DexNumber": 69
+      },
+      {
+        "Name": "weepinbell",
+        "DexNumber": 70
+      },
+      {
+        "Name": "victreebel",
+        "DexNumber": 71
+      },
+      {
+        "Name": "tentacool",
+        "DexNumber": 72
+      },
+      {
+        "Name": "tentacruel",
+        "DexNumber": 73
+      },
+      {
+        "Name": "grimer",
+        "DexNumber": 88
+      },
+      {
+        "Name": "muk",
+        "DexNumber": 89
+      },
+      {
+        "Name": "gastly",
+        "DexNumber": 92
+      },
+      {
+        "Name": "haunter",
+        "DexNumber": 93
+      },
+      {
+        "Name": "gengar",
+        "DexNumber": 94
+      },
+      {
+        "Name": "koffing",
+        "DexNumber": 109
+      },
+      {
+        "Name": "weezing",
+        "DexNumber": 110
+      }
+    ]
+  },
+  {
+    "Type": "fire",
+    "Pokemons": [
+      {
+        "Name": "charmander",
+        "DexNumber": 4
+      },
+      {
+        "Name": "charmeleon",
+        "DexNumber": 5
+      },
+      {
+        "Name": "charizard",
+        "DexNumber": 6
+      },
+      {
+        "Name": "vulpix",
+        "DexNumber": 37
+      },
+      {
+        "Name": "ninetales",
+        "DexNumber": 38
+      },
+      {
+        "Name": "growlithe",
+        "DexNumber": 58
+      },
+      {
+        "Name": "arcanine",
+        "DexNumber": 59
+      },
+      {
+        "Name": "ponyta",
+        "DexNumber": 77
+      },
+      {
+        "Name": "rapidash",
+        "DexNumber": 78
+      },
+      {
+        "Name": "magmar",
+        "DexNumber": 126
+      },
+      {
+        "Name": "flareon",
+        "DexNumber": 136
+      },
+      {
+        "Name": "moltres",
+        "DexNumber": 146
+      }
+    ]
+  },
+  {
+    "Type": "flying",
+    "Pokemons": [
+      {
+        "Name": "charizard",
+        "DexNumber": 6
+      },
+      {
+        "Name": "butterfree",
+        "DexNumber": 12
+      },
+      {
+        "Name": "pidgey",
+        "DexNumber": 16
+      },
+      {
+        "Name": "pidgeotto",
+        "DexNumber": 17
+      },
+      {
+        "Name": "pidgeot",
+        "DexNumber": 18
+      },
+      {
+        "Name": "spearow",
+        "DexNumber": 21
+      },
+      {
+        "Name": "fearow",
+        "DexNumber": 22
+      },
+      {
+        "Name": "zubat",
+        "DexNumber": 41
+      },
+      {
+        "Name": "golbat",
+        "DexNumber": 42
+      },
+      {
+        "Name": "farfetchd",
+        "DexNumber": 83
+      },
+      {
+        "Name": "doduo",
+        "DexNumber": 84
+      },
+      {
+        "Name": "dodrio",
+        "DexNumber": 85
+      },
+      {
+        "Name": "scyther",
+        "DexNumber": 123
+      },
+      {
+        "Name": "gyarados",
+        "DexNumber": 130
+      },
+      {
+        "Name": "aerodactyl",
+        "DexNumber": 142
+      },
+      {
+        "Name": "articuno",
+        "DexNumber": 144
+      },
+      {
+        "Name": "zapdos",
+        "DexNumber": 145
+      },
+      {
+        "Name": "moltres",
+        "DexNumber": 146
+      },
+      {
+        "Name": "dragonite",
+        "DexNumber": 149
+      }
+    ]
+  },
+  {
+    "Type": "water",
+    "Pokemons": [
+      {
+        "Name": "squirtle",
+        "DexNumber": 7
+      },
+      {
+        "Name": "wartortle",
+        "DexNumber": 8
+      },
+      {
+        "Name": "blastoise",
+        "DexNumber": 9
+      },
+      {
+        "Name": "psyduck",
+        "DexNumber": 54
+      },
+      {
+        "Name": "golduck",
+        "DexNumber": 55
+      },
+      {
+        "Name": "poliwag",
+        "DexNumber": 60
+      },
+      {
+        "Name": "poliwhirl",
+        "DexNumber": 61
+      },
+      {
+        "Name": "poliwrath",
+        "DexNumber": 62
+      },
+      {
+        "Name": "tentacool",
+        "DexNumber": 72
+      },
+      {
+        "Name": "tentacruel",
+        "DexNumber": 73
+      },
+      {
+        "Name": "slowpoke",
+        "DexNumber": 79
+      },
+      {
+        "Name": "slowbro",
+        "DexNumber": 80
+      },
+      {
+        "Name": "seel",
+        "DexNumber": 86
+      },
+      {
+        "Name": "dewgong",
+        "DexNumber": 87
+      },
+      {
+        "Name": "shellder",
+        "DexNumber": 90
+      },
+      {
+        "Name": "cloyster",
+        "DexNumber": 91
+      },
+      {
+        "Name": "krabby",
+        "DexNumber": 98
+      },
+      {
+        "Name": "kingler",
+        "DexNumber": 99
+      },
+      {
+        "Name": "horsea",
+        "DexNumber": 116
+      },
+      {
+        "Name": "seadra",
+        "DexNumber": 117
+      },
+      {
+        "Name": "goldeen",
+        "DexNumber": 118
+      },
+      {
+        "Name": "seaking",
+        "DexNumber": 119
+      },
+      {
+        "Name": "staryu",
+        "DexNumber": 120
+      },
+      {
+        "Name": "starmie",
+        "DexNumber": 121
+      },
+      {
+        "Name": "magikarp",
+        "DexNumber": 129
+      },
+      {
+        "Name": "gyarados",
+        "DexNumber": 130
+      },
+      {
+        "Name": "lapras",
+        "DexNumber": 131
+      },
+      {
+        "Name": "vaporeon",
+        "DexNumber": 134
+      },
+      {
+        "Name": "omanyte",
+        "DexNumber": 138
+      },
+      {
+        "Name": "omastar",
+        "DexNumber": 139
+      },
+      {
+        "Name": "kabuto",
+        "DexNumber": 140
+      },
+      {
+        "Name": "kabutops",
+        "DexNumber": 141
+      }
+    ]
+  },
+  {
+    "Type": "bug",
+    "Pokemons": [
+      {
+        "Name": "caterpie",
+        "DexNumber": 10
+      },
+      {
+        "Name": "metapod",
+        "DexNumber": 11
+      },
+      {
+        "Name": "butterfree",
+        "DexNumber": 12
+      },
+      {
+        "Name": "weedle",
+        "DexNumber": 13
+      },
+      {
+        "Name": "kakuna",
+        "DexNumber": 14
+      },
+      {
+        "Name": "beedrill",
+        "DexNumber": 15
+      },
+      {
+        "Name": "paras",
+        "DexNumber": 46
+      },
+      {
+        "Name": "parasect",
+        "DexNumber": 47
+      },
+      {
+        "Name": "venonat",
+        "DexNumber": 48
+      },
+      {
+        "Name": "venomoth",
+        "DexNumber": 49
+      },
+      {
+        "Name": "scyther",
+        "DexNumber": 123
+      },
+      {
+        "Name": "pinsir",
+        "DexNumber": 127
+      }
+    ]
+  },
+  {
+    "Type": "normal",
+    "Pokemons": [
+      {
+        "Name": "pidgey",
+        "DexNumber": 16
+      },
+      {
+        "Name": "pidgeotto",
+        "DexNumber": 17
+      },
+      {
+        "Name": "pidgeot",
+        "DexNumber": 18
+      },
+      {
+        "Name": "rattata",
+        "DexNumber": 19
+      },
+      {
+        "Name": "raticate",
+        "DexNumber": 20
+      },
+      {
+        "Name": "spearow",
+        "DexNumber": 21
+      },
+      {
+        "Name": "fearow",
+        "DexNumber": 22
+      },
+      {
+        "Name": "jigglypuff",
+        "DexNumber": 39
+      },
+      {
+        "Name": "wigglytuff",
+        "DexNumber": 40
+      },
+      {
+        "Name": "meowth",
+        "DexNumber": 52
+      },
+      {
+        "Name": "persian",
+        "DexNumber": 53
+      },
+      {
+        "Name": "farfetchd",
+        "DexNumber": 83
+      },
+      {
+        "Name": "doduo",
+        "DexNumber": 84
+      },
+      {
+        "Name": "dodrio",
+        "DexNumber": 85
+      },
+      {
+        "Name": "lickitung",
+        "DexNumber": 108
+      },
+      {
+        "Name": "chansey",
+        "DexNumber": 113
+      },
+      {
+        "Name": "kangaskhan",
+        "DexNumber": 115
+      },
+      {
+        "Name": "tauros",
+        "DexNumber": 128
+      },
+      {
+        "Name": "ditto",
+        "DexNumber": 132
+      },
+      {
+        "Name": "eevee",
+        "DexNumber": 133
+      },
+      {
+        "Name": "porygon",
+        "DexNumber": 137
+      },
+      {
+        "Name": "snorlax",
+        "DexNumber": 143
+      }
+    ]
+  },
+  {
+    "Type": "electric",
+    "Pokemons": [
+      {
+        "Name": "pikachu",
+        "DexNumber": 25
+      },
+      {
+        "Name": "raichu",
+        "DexNumber": 26
+      },
+      {
+        "Name": "magnemite",
+        "DexNumber": 81
+      },
+      {
+        "Name": "magneton",
+        "DexNumber": 82
+      },
+      {
+        "Name": "voltorb",
+        "DexNumber": 100
+      },
+      {
+        "Name": "electrode",
+        "DexNumber": 101
+      },
+      {
+        "Name": "electabuzz",
+        "DexNumber": 125
+      },
+      {
+        "Name": "jolteon",
+        "DexNumber": 135
+      },
+      {
+        "Name": "zapdos",
+        "DexNumber": 145
+      }
+    ]
+  },
+  {
+    "Type": "ground",
+    "Pokemons": [
+      {
+        "Name": "sandshrew",
+        "DexNumber": 27
+      },
+      {
+        "Name": "sandslash",
+        "DexNumber": 28
+      },
+      {
+        "Name": "nidoqueen",
+        "DexNumber": 31
+      },
+      {
+        "Name": "nidoking",
+        "DexNumber": 34
+      },
+      {
+        "Name": "diglett",
+        "DexNumber": 50
+      },
+      {
+        "Name": "dugtrio",
+        "DexNumber": 51
+      },
+      {
+        "Name": "geodude",
+        "DexNumber": 74
+      },
+      {
+        "Name": "graveler",
+        "DexNumber": 75
+      },
+      {
+        "Name": "golem",
+        "DexNumber": 76
+      },
+      {
+        "Name": "onix",
+        "DexNumber": 95
+      },
+      {
+        "Name": "cubone",
+        "DexNumber": 104
+      },
+      {
+        "Name": "marowak",
+        "DexNumber": 105
+      },
+      {
+        "Name": "rhyhorn",
+        "DexNumber": 111
+      },
+      {
+        "Name": "rhydon",
+        "DexNumber": 112
+      }
+    ]
+  },
+  {
+    "Type": "fairy",
+    "Pokemons": [
+      {
+        "Name": "clefairy",
+        "DexNumber": 35
+      },
+      {
+        "Name": "clefable",
+        "DexNumber": 36
+      },
+      {
+        "Name": "jigglypuff",
+        "DexNumber": 39
+      },
+      {
+        "Name": "wigglytuff",
+        "DexNumber": 40
+      },
+      {
+        "Name": "mr-mime",
+        "DexNumber": 122
+      }
+    ]
+  },
+  {
+    "Type": "fighting",
+    "Pokemons": [
+      {
+        "Name": "mankey",
+        "DexNumber": 56
+      },
+      {
+        "Name": "primeape",
+        "DexNumber": 57
+      },
+      {
+        "Name": "poliwrath",
+        "DexNumber": 62
+      },
+      {
+        "Name": "machop",
+        "DexNumber": 66
+      },
+      {
+        "Name": "machoke",
+        "DexNumber": 67
+      },
+      {
+        "Name": "machamp",
+        "DexNumber": 68
+      },
+      {
+        "Name": "hitmonlee",
+        "DexNumber": 106
+      },
+      {
+        "Name": "hitmonchan",
+        "DexNumber": 107
+      }
+    ]
+  },
+  {
+    "Type": "psychic",
+    "Pokemons": [
+      {
+        "Name": "abra",
+        "DexNumber": 63
+      },
+      {
+        "Name": "kadabra",
+        "DexNumber": 64
+      },
+      {
+        "Name": "alakazam",
+        "DexNumber": 65
+      },
+      {
+        "Name": "slowpoke",
+        "DexNumber": 79
+      },
+      {
+        "Name": "slowbro",
+        "DexNumber": 80
+      },
+      {
+        "Name": "drowzee",
+        "DexNumber": 96
+      },
+      {
+        "Name": "hypno",
+        "DexNumber": 97
+      },
+      {
+        "Name": "exeggcute",
+        "DexNumber": 102
+      },
+      {
+        "Name": "exeggutor",
+        "DexNumber": 103
+      },
+      {
+        "Name": "starmie",
+        "DexNumber": 121
+      },
+      {
+        "Name": "mr-mime",
+        "DexNumber": 122
+      },
+      {
+        "Name": "jynx",
+        "DexNumber": 124
+      },
+      {
+        "Name": "mewtwo",
+        "DexNumber": 150
+      },
+      {
+        "Name": "mew",
+        "DexNumber": 151
+      }
+    ]
+  },
+  {
+    "Type": "rock",
+    "Pokemons": [
+      {
+        "Name": "geodude",
+        "DexNumber": 74
+      },
+      {
+        "Name": "graveler",
+        "DexNumber": 75
+      },
+      {
+        "Name": "golem",
+        "DexNumber": 76
+      },
+      {
+        "Name": "onix",
+        "DexNumber": 95
+      },
+      {
+        "Name": "rhyhorn",
+        "DexNumber": 111
+      },
+      {
+        "Name": "rhydon",
+        "DexNumber": 112
+      },
+      {
+        "Name": "omanyte",
+        "DexNumber": 138
+      },
+      {
+        "Name": "omastar",
+        "DexNumber": 139
+      },
+      {
+        "Name": "kabuto",
+        "DexNumber": 140
+      },
+      {
+        "Name": "kabutops",
+        "DexNumber": 141
+      },
+      {
+        "Name": "aerodactyl",
+        "DexNumber": 142
+      }
+    ]
+  },
+  {
+    "Type": "steel",
+    "Pokemons": [
+      {
+        "Name": "magnemite",
+        "DexNumber": 81
+      },
+      {
+        "Name": "magneton",
+        "DexNumber": 82
+      }
+    ]
+  },
+  {
+    "Type": "ice",
+    "Pokemons": [
+      {
+        "Name": "dewgong",
+        "DexNumber": 87
+      },
+      {
+        "Name": "cloyster",
+        "DexNumber": 91
+      },
+      {
+        "Name": "jynx",
+        "DexNumber": 124
+      },
+      {
+        "Name": "lapras",
+        "DexNumber": 131
+      },
+      {
+        "Name": "articuno",
+        "DexNumber": 144
+      }
+    ]
+  },
+  {
+    "Type": "ghost",
+    "Pokemons": [
+      {
+        "Name": "gastly",
+        "DexNumber": 92
+      },
+      {
+        "Name": "haunter",
+        "DexNumber": 93
+      },
+      {
+        "Name": "gengar",
+        "DexNumber": 94
+      }
+    ]
+  },
+  {
+    "Type": "dragon",
+    "Pokemons": [
+      {
+        "Name": "dratini",
+        "DexNumber": 147
+      },
+      {
+        "Name": "dragonair",
+        "DexNumber": 148
+      },
+      {
+        "Name": "dragonite",
+        "DexNumber": 149
+      }
+    ]
+  }
+]
